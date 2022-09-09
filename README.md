@@ -7,6 +7,6 @@ find > Buscar archivos y directorios.
 diff > Nos ayuda a comparar dos archivos en cada linea y mostrar la diferencia.
 chown > Permite cambiar el propietario de un archivo o directorio.
 uniq > Detecta lineas duplicadas y puede eliminarlas.
-wget > PErmite descargar archivos de internet
+wget > Permite descargar archivos de internet
 top > Muestra una vista de los procesos en ejecucion en tiempo real y las tareas administradas por el kernel.
 grep > Filtra el contenido de un archivo para facilitar busquedas.
